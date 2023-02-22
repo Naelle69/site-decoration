@@ -52,6 +52,7 @@
 
 
 <style scoped>
+@media screen and (min-width:1021px){
 nav{
     background-color: #001E00;
     border-radius: 40px;
@@ -80,5 +81,6 @@ color: #D79D66;
 }
 .dropdown-item{
   color: #001E00;
+}
 }
 </style>

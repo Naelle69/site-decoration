@@ -27,6 +27,7 @@
 
 
 <style scoped>
+@media screen and (min-width:1021px){
 .club{
 background-color: #001E00;
 height: 700px;
@@ -90,7 +91,7 @@ z-index: 1;
     border-radius: 15px;
 }
 
-
+}
 </style>
 
 

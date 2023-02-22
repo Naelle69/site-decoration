@@ -139,6 +139,7 @@
 
 
 <style scoped>
+@media screen and (min-width:1021px){
 .containerfooter{
   display: flex;
   flex-direction: row;
@@ -186,5 +187,6 @@
 
 a{
   text-decoration: none;
+}
 }
 </style>

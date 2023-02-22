@@ -27,7 +27,7 @@
                 <div class="col card1">
                     <b-card title="Card Title"  fluid alt="Responsive image"
                         img-top tag="article" style="max-width: 20rem;" class="mb-2">
-                        <img src="@/assets/images/img-hp.jpeg" class="img-fluid" alt="Salon">
+                        <img src="@/assets/images/image2.jpg" class="img-fluid" alt="Salon">
                         <div class="texte1">
                             <h3> Salon </h3>
                             <b-card-text>     
@@ -71,6 +71,7 @@
 
 
 <style scoped>
+@media screen and (min-width:1021px){
 .texte1{
     margin: 40px;
     height: 40%; 
@@ -156,5 +157,5 @@ padding-bottom: 20px;
 h3{
     font-size: 24px;
 }
-
+}
 </style>

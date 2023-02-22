@@ -24,7 +24,7 @@
 
 
 <style scoped>
-
+@media screen and (min-width:1021px){
 h1{
     color: white;
     font-size: 96px;
@@ -124,5 +124,5 @@ justify-content: flex-start;
     padding: 5px 15px 8px 15px;
     border-radius: 15px;
 }
-
+}
 </style>

@@ -7,7 +7,7 @@
 
 
 <style scoped>
-
+@media screen and (min-width:1021px){
 .blanc{
     margin: 0%;
     padding-bottom: 120px;
@@ -32,5 +32,6 @@ h1{
     color: #001E00;
     font-size: 66px;
     margin-bottom: 30px;
+}
 }
 </style>

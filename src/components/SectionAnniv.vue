@@ -24,6 +24,7 @@
 
 
 <style scoped>
+@media screen and (min-width:1021px){
 
 /* a.disabled {
   pointer-events: none;
@@ -88,4 +89,5 @@ span{
     padding-right: 150px;
     color: white;
   }
+}
 </style>

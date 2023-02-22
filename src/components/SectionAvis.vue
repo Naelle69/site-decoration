@@ -40,6 +40,7 @@
 
 
 <style scoped>
+@media screen and (min-width:1021px){
 span{
     color:#D79D66;
 }
@@ -77,5 +78,6 @@ b-card{
 .avatar{
     height: 60px;
     width: 60px;
+}
 }
 </style>
